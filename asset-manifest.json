@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-byamoz/static/css/main.77ed93f6.chunk.css",
+    "main.js": "/react-byamoz/static/js/main.62722343.chunk.js",
+    "main.js.map": "/react-byamoz/static/js/main.62722343.chunk.js.map",
+    "runtime-main.js": "/react-byamoz/static/js/runtime-main.95eadd84.js",
+    "runtime-main.js.map": "/react-byamoz/static/js/runtime-main.95eadd84.js.map",
+    "static/js/2.e5a6aff7.chunk.js": "/react-byamoz/static/js/2.e5a6aff7.chunk.js",
+    "static/js/2.e5a6aff7.chunk.js.map": "/react-byamoz/static/js/2.e5a6aff7.chunk.js.map",
+    "static/js/3.083dee87.chunk.js": "/react-byamoz/static/js/3.083dee87.chunk.js",
+    "static/js/3.083dee87.chunk.js.map": "/react-byamoz/static/js/3.083dee87.chunk.js.map",
+    "index.html": "/react-byamoz/index.html",
+    "static/css/main.77ed93f6.chunk.css.map": "/react-byamoz/static/css/main.77ed93f6.chunk.css.map",
+    "static/js/2.e5a6aff7.chunk.js.LICENSE.txt": "/react-byamoz/static/js/2.e5a6aff7.chunk.js.LICENSE.txt",
+    "static/media/03-300.3e9d8c26.png": "/react-byamoz/static/media/03-300.3e9d8c26.png",
+    "static/media/B-amooz-Dictionary-min.9dc8e964.jpg": "/react-byamoz/static/media/B-amooz-Dictionary-min.9dc8e964.jpg",
+    "static/media/B-amooz-application-min.3a4c7479.jpg": "/react-byamoz/static/media/B-amooz-application-min.3a4c7479.jpg",
+    "static/media/B-amooz-min.da3e2cc8.png": "/react-byamoz/static/media/B-amooz-min.da3e2cc8.png",
+    "static/media/First-Page-550.dfd59367.png": "/react-byamoz/static/media/First-Page-550.dfd59367.png",
+    "static/media/France-min.673170e5.jpg": "/react-byamoz/static/media/France-min.673170e5.jpg",
+    "static/media/index.css": "/react-byamoz/static/media/IRANSansBold.cd9ebcd6.ttf",
+    "static/media/IRANSansRegular.e9b1429e.ttf": "/react-byamoz/static/media/IRANSansRegular.e9b1429e.ttf",
+    "static/media/Turkey-min.78fb636a.jpg": "/react-byamoz/static/media/Turkey-min.78fb636a.jpg",
+    "static/media/arabia-min.c1d642eb.jpg": "/react-byamoz/static/media/arabia-min.c1d642eb.jpg",
+    "static/media/germay-min.6c196583.jpg": "/react-byamoz/static/media/germay-min.6c196583.jpg",
+    "static/media/lang-b-amooz-min.5db45f9e.jpg": "/react-byamoz/static/media/lang-b-amooz-min.5db45f9e.jpg",
+    "static/media/spain-min.1f7e1827.jpg": "/react-byamoz/static/media/spain-min.1f7e1827.jpg",
+    "static/media/uk-min.779e3b12.jpg": "/react-byamoz/static/media/uk-min.779e3b12.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95eadd84.js",
+    "static/js/2.e5a6aff7.chunk.js",
+    "static/css/main.77ed93f6.chunk.css",
+    "static/js/main.62722343.chunk.js"
+  ]
+}
