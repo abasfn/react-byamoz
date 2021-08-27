@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-byamoz/static/css/main.77ed93f6.chunk.css",
-    "main.js": "/react-byamoz/static/js/main.550fbecb.chunk.js",
-    "main.js.map": "/react-byamoz/static/js/main.550fbecb.chunk.js.map",
-    "runtime-main.js": "/react-byamoz/static/js/runtime-main.95eadd84.js",
-    "runtime-main.js.map": "/react-byamoz/static/js/runtime-main.95eadd84.js.map",
-    "static/js/2.e5a6aff7.chunk.js": "/react-byamoz/static/js/2.e5a6aff7.chunk.js",
-    "static/js/2.e5a6aff7.chunk.js.map": "/react-byamoz/static/js/2.e5a6aff7.chunk.js.map",
-    "static/js/3.083dee87.chunk.js": "/react-byamoz/static/js/3.083dee87.chunk.js",
-    "static/js/3.083dee87.chunk.js.map": "/react-byamoz/static/js/3.083dee87.chunk.js.map",
+    "main.css": "/react-byamoz/static/css/main.9766524c.chunk.css",
+    "main.js": "/react-byamoz/static/js/main.d7c23442.chunk.js",
+    "main.js.map": "/react-byamoz/static/js/main.d7c23442.chunk.js.map",
+    "runtime-main.js": "/react-byamoz/static/js/runtime-main.cc63c509.js",
+    "runtime-main.js.map": "/react-byamoz/static/js/runtime-main.cc63c509.js.map",
+    "static/js/2.1419aff7.chunk.js": "/react-byamoz/static/js/2.1419aff7.chunk.js",
+    "static/js/2.1419aff7.chunk.js.map": "/react-byamoz/static/js/2.1419aff7.chunk.js.map",
+    "static/js/3.79dbb8ba.chunk.js": "/react-byamoz/static/js/3.79dbb8ba.chunk.js",
+    "static/js/3.79dbb8ba.chunk.js.map": "/react-byamoz/static/js/3.79dbb8ba.chunk.js.map",
     "index.html": "/react-byamoz/index.html",
-    "static/css/main.77ed93f6.chunk.css.map": "/react-byamoz/static/css/main.77ed93f6.chunk.css.map",
-    "static/js/2.e5a6aff7.chunk.js.LICENSE.txt": "/react-byamoz/static/js/2.e5a6aff7.chunk.js.LICENSE.txt",
+    "static/css/main.9766524c.chunk.css.map": "/react-byamoz/static/css/main.9766524c.chunk.css.map",
+    "static/js/2.1419aff7.chunk.js.LICENSE.txt": "/react-byamoz/static/js/2.1419aff7.chunk.js.LICENSE.txt",
     "static/media/03-300.3e9d8c26.png": "/react-byamoz/static/media/03-300.3e9d8c26.png",
     "static/media/B-amooz-Dictionary-min.9dc8e964.jpg": "/react-byamoz/static/media/B-amooz-Dictionary-min.9dc8e964.jpg",
     "static/media/B-amooz-application-min.3a4c7479.jpg": "/react-byamoz/static/media/B-amooz-application-min.3a4c7479.jpg",
@@ -28,9 +28,9 @@
     "static/media/uk-min.779e3b12.jpg": "/react-byamoz/static/media/uk-min.779e3b12.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.95eadd84.js",
-    "static/js/2.e5a6aff7.chunk.js",
-    "static/css/main.77ed93f6.chunk.css",
-    "static/js/main.550fbecb.chunk.js"
+    "static/js/runtime-main.cc63c509.js",
+    "static/js/2.1419aff7.chunk.js",
+    "static/css/main.9766524c.chunk.css",
+    "static/js/main.d7c23442.chunk.js"
   ]
 }
